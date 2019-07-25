@@ -22,6 +22,7 @@
 |-|-|-|-|-|
 |[基于tf-idf的问答机器人](https://github.com/WenRichard/QAmodel-for-Retrievalchatbot/tree/master/QAdemo_base1)|中文|tf-idf，特征匹配|否|2019/4/4|
 |[基于recall+rerank的问答机器人](https://github.com/WenRichard/Customer-Chatbot/tree/master/smart-chatbot-zero)|中文|tf-idf，cnn|否|2019/7/22|
+|[聊天机器人小天1.0](https://github.com/WenRichard/Customer-Chatbot/tree/master/xiaotian-chatbot1.0)|中文|route转换机制|否|2019/7/25|
 |[基于BERT的问答机器人]()|中文|/|否|敬请期待|
 
 
