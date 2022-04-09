@@ -30,3 +30,14 @@
 **有时间就会更新问答相关项目，有兴趣的同学可以follow一下**  
 **留言请在Issues或者email xiezhengwen2013@163.com**
 
+ **Cite**     
+如果你在研究中使用了QAmodel-for-Retrievalchatbot，请按如下格式引用：  
+
+```
+@software{QR-chatbot,
+  author = {ZhengWen Xie},
+  title = {KBQA-BERT: QAmodel for Retrievalchatbot},
+  year = {2019},
+  url = {https://github.com/WenRichard/QAmodel-for-Retrievalchatbot},
+}
+```
