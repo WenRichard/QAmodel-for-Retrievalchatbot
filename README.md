@@ -34,9 +34,9 @@
 如果你在研究中使用了QAmodel-for-Retrievalchatbot，请按如下格式引用：  
 
 ```
-@software{QR-chatbot,
+@software{QR-Chatbot,
   author = {ZhengWen Xie},
-  title = {KBQA-BERT: QAmodel for Retrievalchatbot},
+  title = {QR-Chatbot: QAmodel for Retrievalchatbot},
   year = {2019},
   url = {https://github.com/WenRichard/QAmodel-for-Retrievalchatbot},
 }
